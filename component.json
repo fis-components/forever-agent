@@ -1,0 +1,10 @@
+{
+    "name": "forever-agent",
+    "description": "HTTP Agent that keeps socket connections alive between keep-alive requests. Formerly part of mikeal/request, now a standalone module.",
+    "repos": "https://github.com/mikeal/forever-agent",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.6.0"
+}
